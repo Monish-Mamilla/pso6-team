@@ -1,4 +1,3 @@
 Team members: Monish Mamilla and han-rose
 Favorite programming language: TBD
 Team motto: Code, test, repeat
-
